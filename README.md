@@ -1,6 +1,7 @@
 
 ## Project Overview
 This project aims to analyze a dataset concerning students' performance across various subjects. The dataset is from [Kaggle](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance). includes multiple variables like gender, race/ethnicity, parental level of education, lunch type, test preparation course completion, and scores in math, reading, and writing. Through this analysis, we explore how different factors, including test preparation courses and parental education levels, influence students' academic outcomes.
+Check out my supportive [Medium Article!](https://medium.com/@garimaminocha2/unraveling-the-mysteries-of-student-performance-a-crisp-dm-journey-bdcff4a9e351)
 
 ## Dataset Description
 The dataset comprises the following fields:
