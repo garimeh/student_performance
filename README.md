@@ -8,11 +8,11 @@ The dataset comprises the following fields:
 - gender: The student's gender (Male/Female).
 - race/ethnicity: The student's race/ethnicity (Groups A to E).
 - parental level of education: The highest education level attained by the student's parents.
--lunch: Type of lunch had by the student (standard or free/reduced).
--test preparation course: Indicates if the student completed a test preparation course (none/completed).
--math score: Student's score in mathematics.
--reading score: Student's score in reading.
--writing score: Student's score in writing
+- lunch: Type of lunch had by the student (standard or free/reduced).
+- test preparation course: Indicates if the student completed a test preparation course (none/completed).
+- math score: Student's score in mathematics.
+- reading score: Student's score in reading.
+- writing score: Student's score in writing
 
 ## Objective
 The project aims to answer the following key questions:
